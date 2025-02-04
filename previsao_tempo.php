@@ -7,7 +7,7 @@
 $temperatura = 30;
 
 if($temperatura >= 30){
-    echo "O dia será ensolarado";
+    echo "O dia será ensolarado com muitas Nuvens";
 }
 else{
     echo "O dia será nublado todos os dias";
