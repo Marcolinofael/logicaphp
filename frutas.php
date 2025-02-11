@@ -9,7 +9,7 @@ foreach($frutas as $fruta){
 }
 
 echo "-------------------------------<br>";
-$frutas [] = "morango";
+$frutas [] = "Morango";
 foreach($frutas as $fruta){
     echo $fruta . "<br>";
 }
